@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "assignment3",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "file1.js",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start1": "nodemon file1.js",
+    "start2": "nodemon file2.js",
+    "start3": "nodemon file3.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

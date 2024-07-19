@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "car_make": "Volkswagen",
+    "car_model": "GTI",
+    "car_vin": "WAUJFAFH5EN924477",
+    "car_color": "green",
+    "car_price": 46084.07,
+    "car_owner": "Beale Bowling"
+  },
+  {
+    "id": 2,
+    "car_make": "Chevrolet",
+    "car_model": "Silverado 3500",
+    "car_vin": "WBAPM77539N243442",
+    "car_color": "black",
+    "car_price": 34839.23,
+    "car_owner": "Ferrel Jadczak"
+  },
+  {
+    "id": 3,
+    "car_make": "GMC",
+    "car_model": "Acadia",
+    "car_vin": "WAUWFAFH1DN415619",
+    "car_color": "black",
+    "car_price": 60404.22,
+    "car_owner": "Sim Kasparski"
+  },
+  {
+    "id": 4,
+    "car_make": "Suzuki",
+    "car_model": "SJ",
+    "car_vin": "JA32X8HW5CU752798",
+    "car_color": "white",
+    "car_price": 76467.26,
+    "car_owner": "Adah Magill"
+  },
+  {
+    "id": 5,
+    "car_make": "Daewoo",
+    "car_model": "Lanos",
+    "car_vin": "3C3CFFBR1ET709528",
+    "car_color": "red",
+    "car_price": 66709.75,
+    "car_owner": "Brig Corneil"
+  },
+  {
+    "id": 6,
+    "car_make": "Pontiac",
+    "car_model": "Bonneville",
+    "car_vin": "3D7TP2CT5AG777531",
+    "car_color": "green",
+    "car_price": 38071.51,
+    "car_owner": "Hammad Meigh"
+  },
+  {
+    "id": 7,
+    "car_make": "Chrysler",
+    "car_model": "New Yorker",
+    "car_vin": "1G6DK8E3XD0963056",
+    "car_color": "red",
+    "car_price": 74815.94,
+    "car_owner": "Monah Houdmont"
+  },
+  {
+    "id": 8,
+    "car_make": "Pontiac",
+    "car_model": "Grand Prix Turbo",
+    "car_vin": "SCBLC37F95C877482",
+    "car_color": "white",
+    "car_price": 87072.51,
+    "car_owner": "Lucius Jeakins"
+  },
+  {
+    "id": 9,
+    "car_make": "Mitsubishi",
+    "car_model": "3000GT",
+    "car_vin": "WDDGF4HB0DF826169",
+    "car_color": "white",
+    "car_price": 20434.79,
+    "car_owner": "Mart Nafzger"
+  },
+  {
+    "id": 10,
+    "car_make": "GMC",
+    "car_model": "Acadia",
+    "car_vin": "1G6DW67V280019118",
+    "car_color": "white",
+    "car_price": 72027.29,
+    "car_owner": "Morten Bresnen"
+  }
+]
